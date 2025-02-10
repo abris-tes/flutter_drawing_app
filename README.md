@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This repository is my second repo.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
